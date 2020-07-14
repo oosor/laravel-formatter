@@ -19,6 +19,7 @@ Clone from [https://github.com/Soapbox/laravel-formatter](https://github.com/Soa
 - Add support for laravel 5
 - add package discovery for laravel 5
 - add support delimiter to a csv
+- Laravel 6, 7
 
 Formatter Bundle
 ================
@@ -36,7 +37,7 @@ See Parsers and Formats to see supported input / output formats.
 Through command line:
 
 ```bash
-composer require soapbox/laravel-formatter
+composer require oosor/laravel-formatter
 ```
 
 Through composer.json:
@@ -44,7 +45,7 @@ Through composer.json:
 ```json
 {
   "require": {
-    "soapbox/laravel-formatter": "2.x"
+    "oosor/laravel-formatter": "2.x"
   }
 }
 
